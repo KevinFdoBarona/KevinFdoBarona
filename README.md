@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me with my email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I reading a lot
+- ⚡ Fun fact: I read a lot
 
 <!---
 KevinFdoBarona/KevinFdoBarona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
